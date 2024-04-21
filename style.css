@@ -1,0 +1,33 @@
+.quote {
+    color: gray;
+    font-style: italic;
+    padding: 25px;
+}
+
+h1, h2 {
+    color: darkred;
+    text-decoration: underline whitesmoke dotted 1px;
+}
+
+.center, h1, h2 {
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+p {
+    font-size: small;
+    color: aliceblue;
+    line-height: 1.9em;
+}
+
+body {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 26%, rgba(9,37,121,1) 50%, rgba(0,212,255,1) 96%);
+}
+
+.image {
+    text-align: center;
+}
