@@ -42,10 +42,20 @@ body {
     background-color: darkolivegreen;
     width: 100px;
     height: 100px;
+    margin: 50px;
+    
+}
+
+#randomID {
+    color: green;
 }
 
 .spanner {
     font-size: xx-large;
     color: mediumslateblue;
     text-shadow: 5px 5px 1px red;
+}
+
+span {
+    color: yellow;
 }
