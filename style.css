@@ -31,3 +31,21 @@ body {
 .image {
     text-align: center;
 }
+
+.myBlock {
+    background-color: coral;
+    height: 200px;
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: darkolivegreen;
+    width: 100px;
+    height: 100px;
+}
+
+.spanner {
+    font-size: xx-large;
+    color: mediumslateblue;
+    text-shadow: 5px 5px 1px red;
+}
